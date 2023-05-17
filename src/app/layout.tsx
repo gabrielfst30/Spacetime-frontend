@@ -6,7 +6,7 @@ import { Roboto_Flex as Roboto,
 
 //definindo peso e variável das fontes
 const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto' })
-const baiJamjuree = BaiJamjuree({ subsets: ['latin'], weight: '700', variable: '--font-bai-jamjure' })
+const baiJamjuree = BaiJamjuree({ subsets: ['latin'], weight: '700', variable: '--font-bai-jamjuree' })
 
 export const metadata = {
   title: 'Spacetime',
